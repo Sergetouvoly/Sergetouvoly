@@ -40,20 +40,20 @@ Ingénieur polyvalent avec une expertise croisée en **Data Science**, **IA** et
 ### 🌾 Assistant Agricole Intelligent (LLM)
 **Stack** : LangChain • GPT-4 • React • ChromaDB • Docker  
 - Conception d'un chatbot expert pour l'agriculture avec intégration de flux temps réel (satellites, météo)
-- Architecture RAG optimisée (+37% de pertinence via RLHF)
+- Architecture RAG optimisée 
 - Système d'évaluation automatisé avec RAGAS
 
 ### 🏥 Modèle Médical Phi-2 (Fine-Tuning QLoRA)
 **Stack** : PyTorch • Hugging Face • Peft • AWS  
 - Adaptation du modèle Microsoft Phi-2 (1.3B paramètres) sur dataset MedQuad
-- Réduction de 68% de l'utilisation mémoire GPU avec QLoRA
-- Amélioration de 45% des scores de précision diagnostique
+- Réduction l'utilisation mémoire GPU avec QLoRA
+- Amélioration  des scores de précision diagnostique
 
 ### 🚗 Système de Recommandation Automobile (Big Data)
 **Stack** : Spark • Hadoop • Hive • MLflow  
-- Traitement de 15M+ de données véhicules via pipeline MapReduce
+- Traitement  de données véhicules via pipeline MapReduce
 - Clustering non supervisé (optimisation silhouette score : 0.72)
-- Modèle de prédiction déployé avec MLflow (+92% de satisfaction utilisateur)
+- Modèle de prédiction déployé avec MLflow 
 
 ---
 
