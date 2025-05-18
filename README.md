@@ -1,8 +1,6 @@
 # 👋 Bonjour, je m'appelle Serge DOUDOU !
 
 **Ingénieur Data Science | Intelligence Artificielle | Développement Full Stack**  
-*Architecte de solutions data-driven et applications web scalables*
-
 ---
 
 ## 🚀 Profil Professionnel
